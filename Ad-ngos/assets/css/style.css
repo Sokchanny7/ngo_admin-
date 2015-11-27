@@ -1,0 +1,11 @@
+.box-thin{       
+     padding: 10px;
+     border: 5px solid gray;
+     margin: 0;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
